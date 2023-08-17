@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/aaryavbehl" target="blank"><img src="https://img.shields.io/twitter/follow/aaryavbehl?logo=twitter&style=for-the-badge" alt="aaryavbehl" /></a> </p>
 
-- 🔭 I’m currently working on **AYE**- A Discord Bot.
+- 🔭 I’m currently working on **AYE**- *A Discord Bot*.
 
-- 🌱 I’m currently learning how to build **Websites.**
+- 🌱 I’m currently learning how to build **different types of Websites.**
 
 - 👯 My Personal Blog [My Blog](https://aaryavblog.vercel.app/).
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://aaryav.netlify.app/).
+- 👨‍💻 All of my projects are available on [my portfolio website](https://aaryav.netlify.app/).
 
 - 💬 Ask me anything about **Arduino, RPI, NodeMCU, micro:bit, etc.**
 
-- 📫 How to reach me **behlaaryav@gmail.com**
+- 📫 Reach out to me at **behlaaryav@gmail.com**
 
-- ⚡ Fun Fact **I make things faster if they don't have any deadline.**
+- ⚡ Fun Fact **I make things faster if they don't have a deadline.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
