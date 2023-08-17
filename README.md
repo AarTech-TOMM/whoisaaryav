@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Aaryav Behl</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h1 align="center">Hey, I'm Aaryav Behl</h1>
+<h3 align="center">I Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryavbehl&label=Profile%20views&color=0e75b6&style=flat" alt="aaryavbehl" /> </p>
 
@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aaryavbehl" target="blank"><img src="https://img.shields.io/twitter/follow/aaryavbehl?logo=twitter&style=for-the-badge" alt="aaryavbehl" /></a> </p>
 
-- 🔭 I’m currently working on [AYE(DISCORD BOT)](#)
+- 🔭 I’m currently working on **AYE**- A Discord Bot.
 
-- 🌱 I’m currently learning **Website Designing.**
+- 🌱 I’m currently learning how to build **Websites.**
 
-- 👯 I’m looking to collaborate on [ANY MERN WEBSITE](#)
+- 👯 My Personal Blog [My Blog](https://aaryavblog.vercel.app/).
 
-- 🤝 I’m looking for help with [JS Based Discord Bots](#)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://aaryav.netlify.app/).
 
-- 👨‍💻 All of my projects are available at [https://aaryav.netlify.app/](https://aaryav.netlify.app/)
-
-- 💬 Ask me about **Arduino, RPI, NodeMCU, micro:bit, etc.**
+- 💬 Ask me anything about **Arduino, RPI, NodeMCU, micro:bit, etc.**
 
 - 📫 How to reach me **behlaaryav@gmail.com**
 
