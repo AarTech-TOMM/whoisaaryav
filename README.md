@@ -17,7 +17,7 @@
 
 - 💬 Ask me anything about **Arduino, RPI, NodeMCU, micro:bit, etc.**
 
-- 📫 Reach out to me at **behlaaryav@gmail.com**
+- 📫 Reach out to me at **behlaaryav@gmail.com**.
 
 - ⚡ Fun Fact **I make things faster if they don't have a deadline.**
 
