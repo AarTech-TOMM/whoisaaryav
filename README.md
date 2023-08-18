@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Aaryav Behl</h1>
+<img src="https://github.com/aaryavbehl/aaryavbehl/blob/main/standard.gif" width="100%" height="100%" />
 <h3 align="center">I Code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryavbehl&label=Profile%20views&color=0e75b6&style=flat" alt="aaryavbehl" /> </p>
