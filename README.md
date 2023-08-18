@@ -12,15 +12,13 @@
 
 - 🌱 I’m currently learning how to build **different types of Websites.**
 
-- 👯 My Personal Blog [My Blog](https://aaryavblog.vercel.app/).
+- 👯 My [Personal Blog website](https://aaryavblog.vercel.app/).
 
 - 👨‍💻 All of my projects are available on [my portfolio website](https://aaryav.netlify.app/).
 
 - 💬 Ask me anything about **Arduino, RPI, NodeMCU, micro:bit, etc.**
 
 - 📫 Reach out to me at **behlaaryav@gmail.com**.
-
-- ⚡ Fun Fact **I make things faster if they don't have a deadline.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
