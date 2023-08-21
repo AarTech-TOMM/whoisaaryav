@@ -55,9 +55,3 @@
 ## Author
 
 * **[Aaryav Behl](https://github.com/aaryavbehl/)** - *Hobbyist*
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryavbehl&show_icons=true&locale=en&layout=compact" alt="aaryavbehl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryavbehl&show_icons=true&locale=en" alt="aaryavbehl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryavbehl&" alt="aaryavbehl" /></p>
