@@ -47,6 +47,7 @@
 * Rock Paper Scissors -> [RockPaperScissors](https://rokhpaperscissors.netlify.app/)
 * A notes app that stores your notes locally in the form of cache -> [KeepNotesWeb](https://keepnotesweb.netlify.app/)
 * A space meteor shooting game -> [SpaceDoom](https://spacedoom.netlify.app/)
+* A replica of stacks game -> [StacksWeb](https://stacksweb.netlify.app/)
 ## My Discord Bots
 * **RESIDENT BOT** - A bot that sends random quotes in a specified Discord channel.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1141088426456797194/image.png)
