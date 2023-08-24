@@ -44,6 +44,7 @@
 * A Debloated version of YouTube -> [DebloTube](https://deblotube.netlify.app/)
 * A Weather Station working on the OpenWeather API -> [Weather Station](https://darpa.netlify.app/)
 * A Website that gives real advice every time with a click of a button -> [RealAdvices](https://realadvices.netlify.app/)
+* Rock Paper Scissors -> [RockPaperScissors](https://rokhpaperscissors.netlify.app/)
 ## My Discord Bots
 * **RESIDENT BOT** - A bot that sends random quotes in a specified Discord channel.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1141088426456797194/image.png)
