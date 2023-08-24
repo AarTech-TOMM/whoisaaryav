@@ -39,12 +39,13 @@
 ---
 
 ## List of websites that I have built so far
-* My Portfolio Website -> [Portfolio Website](https://aaryav.netlify.app/)
-* A personal Blog Website -> [Blog](https://aaryavblog.vercel.app/)
-* A Debloated version of YouTube -> [DebloTube](https://deblotube.netlify.app/)
-* A Weather Station working on the OpenWeather API -> [Weather Station](https://darpa.netlify.app/)
-* A Website that gives real advice every time with a click of a button -> [RealAdvices](https://realadvices.netlify.app/)
+* My portfolio website -> [Portfolio Website](https://aaryav.netlify.app/)
+* A personal blog website -> [Blog](https://aaryavblog.vercel.app/)
+* A debloated version of YouTube -> [DebloTube](https://deblotube.netlify.app/)
+* A weather station using the OpenWeather API -> [Weather Station](https://darpa.netlify.app/)
+* A website that gives random advice -> [RealAdvices](https://realadvices.netlify.app/)
 * Rock Paper Scissors -> [RockPaperScissors](https://rokhpaperscissors.netlify.app/)
+* A notes app that stores your notes locally in the form of cache -> [KeepNotesWeb](https://keepnotesweb.netlify.app/)
 ## My Discord Bots
 * **RESIDENT BOT** - A bot that sends random quotes in a specified Discord channel.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1141088426456797194/image.png)
