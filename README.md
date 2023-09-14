@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/aaryavbehl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaryavbehl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaryavbehl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryavbehl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaryav behl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaryav behl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aaryavtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaryav behl" height="30" width="40" /></a>
 <a href="https://discord.gg/hZGDmheDnq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hZGDmheDnq" height="30" width="40" /></a>
 </p>
 
