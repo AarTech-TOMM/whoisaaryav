@@ -50,11 +50,11 @@
 * A replica of stacks game -> [StacksWeb](https://stacksweb.netlify.app/)
 * Nokia's Snake Game on web -> [WebSnake](https://websnake.netlify.app/)
 ## List of Discord bots that I have built so far
-* **RESIDENT BOT** - A bot that sends random quotes in a specified Discord channel.
+* **[RESIDENT BOT](https://github.com/aaryavbehl/RESIDENT)** - A bot that sends random quotes in a specified Discord channel.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1141088426456797194/image.png)
-* **Killua BOT** - A basic AI Chatbot.
+* **[Killua BOT](https://github.com/aaryavbehl/killua)** - A basic AI Chatbot.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1141088887486283776/image.png)
-* **League of Assassins BOT** - A bot that sends DM to users with special messages.
+* **[League of Assassins BOT](https://github.com/aaryavbehl/loaofficialbot)** - A bot that sends DM to users with special messages.
 ![🐱‍👤](https://cdn.discordapp.com/attachments/865856442530529301/1151890527797653524/image.png)
 ## My Depreciated Discord Bots
 * **[AlSaher](https://top.gg/bot/885853621290414091)** - A multipurpose bot to replace every bot existing in your server.
