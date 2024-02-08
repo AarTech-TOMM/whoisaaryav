@@ -43,7 +43,7 @@
 * A debloated version of YouTube -> [DebloTube](https://deblotube.netlify.app/)
 * A weather station using the OpenWeather API -> [Weather Station](https://darpa.netlify.app/)
 * A website that gives random advice -> [RealAdvices](https://realadvices.netlify.app/)
-* Tic Tac Toe -> [TicTakToee](https://tictacktoee.netlify.app/)
+* Tic Tac Toe -> [TicTackToee](https://tictacktoee.netlify.app/)
 * A notes app that stores your notes locally in the form of cache -> [KeepNotesWeb](https://keepnotesweb.netlify.app/)
 * A space meteor shooting game -> [SpaceDoom](https://spacedoom.netlify.app/)
 * A replica of stacks game -> [StacksWeb](https://stacksweb.netlify.app/)
